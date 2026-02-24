@@ -23,6 +23,6 @@ Other: SEO, Graphic Design, Problem Diagnosis & Troubleshooting
 
 Contact
 Dakotah Singh • Cypress, TX (Remote)
-dksingh6381@gmail.com
+Singhdakotah@gmail.com
 (832) 663-1744
 LinkedIn – Dakotah Singh
