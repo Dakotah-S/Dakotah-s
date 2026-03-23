@@ -50,6 +50,6 @@ Tools: Git, CI/CD, Linux CLI
 
 ## Philosophy
 
-I focus on building systems that don’t just work in development—but hold up in real-world conditions.
+I focus on building systems that don’t just work in development but hold up in real-world conditions.
 
 The gap between “it works” and “it works reliably” is where most of the real engineering happens.
